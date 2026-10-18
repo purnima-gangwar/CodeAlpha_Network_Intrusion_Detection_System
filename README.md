@@ -52,5 +52,4 @@ This is a basic demonstration focused on ICMP traffic detection. An alert does n
 - Suricata rule configuration
 - Security alert and log analysis
 
-## Author
-Completed as part of the CodeAlpha Cyber Security Internship task.
+## Author : Purnima Gangwar.
