@@ -1,0 +1,8 @@
+# Ignore network logs and captured data
+logs/
+*.pcap
+*.pcapng
+
+# Ignore local environment files
+.env
+.env.*
