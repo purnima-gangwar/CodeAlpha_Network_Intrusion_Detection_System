@@ -1,6 +1,6 @@
 # Network Intrusion Detection System (NIDS)
 
-## Overview
+
 This project demonstrates a basic Network Intrusion Detection System using Suricata on Windows. It monitors network traffic and generates alerts when traffic matches configured detection rules.
 
 ## Objective
