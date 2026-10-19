@@ -41,7 +41,7 @@ Network-Intrusion-Detection-System/
 └── README.md
 ```
 
-*The structure may vary depending on the local configuration. Do not upload raw logs or sensitive network details.*
+
 
 ## Limitations
 This is a basic demonstration focused on ICMP traffic detection. An alert does not necessarily indicate a malicious attack. Additional rules and testing are required to detect other threats.
